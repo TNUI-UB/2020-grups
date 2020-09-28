@@ -1,0 +1,16 @@
+{
+	"members": [
+		{
+			"name": "<Nom>",
+			"surnames": "<Cognoms>",
+			"niub": "<niub>",
+			"github": "<github-username>",
+		},
+		{
+			"name": "<Nom>",
+			"surnames": "<Cognoms>",
+			"niub": "<niub>",
+			"github": "<github-username>",
+		}
+	]
+}
